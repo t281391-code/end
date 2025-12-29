@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "title": "aaa",
+      "description": "aaa",
+      "dueDate": "2222-02-22",
+      "priority": "low",
+      "category": "work",
+      "status": "tasklist",
+      "createdAt": "2025-12-29T01:46:42.012Z",
+      "updatedAt": "2025-12-29T04:49:17.266Z",
+      "completed": false,
+      "checkCount": 0,
+      "progress": 0,
+      "id": 1
+    }
+  ],
+  "projects": [],
+  "calendarNotes": [
+    {
+      "id": 1,
+      "data": {}
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "username": "admin",
+      "password": "admin123",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "name": "shinobi",
+      "email": "t281391@gmail.com",
+      "username": "amarbold",
+      "password": "JORDANbulls23",
+      "createdAt": "2025-12-29T01:55:07.667Z",
+      "id": "iCAZQzJ"
+    }
+  ]
+}
